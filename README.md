@@ -1,8 +1,10 @@
-# game
+# game - a code bundle for the GameInterpreter Webapp.
 
 Tool for translation of game theory natural language descriptions to code and visuals.
 
-This is a code bundle for GameInterpreter Webapp.
+🚨 NOTE FOR POTENTIAL CONTRIBUTORS 🚨
+- This repo is a proof of concept and is not intended for production use.
+- If you are are an applicant to [Gambit project 2](https://www.gambit-project.org/gsoc_2026/#idea-2-gameinterpreter-a-front-end-for-llm-based-game-translation) in Google Summer of Code reading this, please read the Gambit project's [contributor documentation](https://gambitproject.readthedocs.io/en/latest/developer.contributing.html). We may fork this repo to the Gambit project org if we want to use it.
 
 Table of contents:
 - [Running the app locally](#running-the-app-locally)
