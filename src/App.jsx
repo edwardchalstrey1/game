@@ -887,6 +887,8 @@ export default function App() {
                 className="w-full px-2 py-1 rounded text-xs border border-slate-300 bg-white text-slate-700"
               >
                 <option value="gambit">Gambit</option>
+                <option value="distinctipy">Distinctipy</option>
+                <option value="colorblind">Colorblind</option>
                 <option value="default">Default</option>
               </select>
             </div>
